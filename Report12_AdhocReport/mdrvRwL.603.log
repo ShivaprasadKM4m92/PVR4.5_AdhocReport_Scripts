@@ -1,0 +1,15 @@
+Start auto log messages stack - Iteration 1.
+Action.c(1399): web_url("polymer.html") started  	[MsgId: MMSG-26355]
+Action.c(1399): Registering web_url("polymer.html") was successful  	[MsgId: MMSG-26390]
+Action.c(1411): web_url("sharedWithValues") started  	[MsgId: MMSG-26355]
+Action.c(1411): Registering web_url("sharedWithValues") was successful  	[MsgId: MMSG-26390]
+Action.c(1420): web_url("info_2") started  	[MsgId: MMSG-26355]
+Action.c(1420): Registering web_url("info_2") was successful  	[MsgId: MMSG-26390]
+Action.c(1435): web_url("{User_Id}_2") started  	[MsgId: MMSG-26355]
+Action.c(1435): Registering web_url("{User_Id}_2") was successful  	[MsgId: MMSG-26390]
+Action.c(1444): web_concurrent_end started  	[MsgId: MMSG-26355]
+Action.c(1328): Error -26610: HTTP Status-Code=502 (Bad Gateway) for "https://pvr-perf.rxlogix.com/reports/configurationRest/fetchDateRangeTypesForDatasource?dataSourceId=6594"   [issued at Action.c(1444)]  	[MsgId: MERR-26610]
+Action.c(1316): Error -26610: HTTP Status-Code=502 (Bad Gateway) for "https://pvr-perf.rxlogix.com/reports/email/allEmails"   [issued at Action.c(1444)]  	[MsgId: MERR-26610]
+End auto log messages stack.
+
+
