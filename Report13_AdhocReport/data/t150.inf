@@ -1,0 +1,11 @@
+[t150]
+FileName1=t150_websocket.html
+URL1=https://pvr-perf.rxlogix.com/reports/stomp/001/vcxvjrb5/websocket
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_150.xml
+RequestHeaderFile=t150_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t150_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

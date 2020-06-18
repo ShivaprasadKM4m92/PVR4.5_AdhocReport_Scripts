@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>Report13_AdhocReport</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="Report13_AdhocReport.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="Report13_AdhocReport.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="DateRange.dat" Filter="2" />
+    <FileEntry Name="LoginDetails.dat" Filter="2" />
+    <FileEntry Name="ProductName.dat" Filter="2" />
+    <FileEntry Name="ReportName.dat" Filter="2" />
+    <FileEntry Name="TemplateId.dat" Filter="2" />
+    <FileEntry Name="URL.dat" Filter="2" />
+    <FileEntry Name="combined_Report13_AdhocReport.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="138858064441.idx" Filter="1" />
+    <FileEntry Name="172485168441.idx" Filter="1" />
+    <FileEntry Name="215975488441.idx" Filter="1" />
+    <FileEntry Name="21597548844_7kr.490.idx" Filter="1" />
+    <FileEntry Name="21597548844_FEA.726.idx" Filter="1" />
+    <FileEntry Name="21597548844_iJl.866.idx" Filter="1" />
+    <FileEntry Name="21597548844_pII.996.idx" Filter="1" />
+    <FileEntry Name="21597548844_RW9.404.idx" Filter="1" />
+    <FileEntry Name="21597548844_ti9.558.idx" Filter="1" />
+    <FileEntry Name="21597548844_ujp.624.idx" Filter="1" />
+    <FileEntry Name="21597548844_x5T.900.idx" Filter="1" />
+    <FileEntry Name="246433294441.idx" Filter="1" />
+    <FileEntry Name="24643329444_6x3.489.idx" Filter="1" />
+    <FileEntry Name="24643329444_BJp.557.idx" Filter="1" />
+    <FileEntry Name="24643329444_eoc.995.idx" Filter="1" />
+    <FileEntry Name="24643329444_gsL.403.idx" Filter="1" />
+    <FileEntry Name="24643329444_KZE.865.idx" Filter="1" />
+    <FileEntry Name="24643329444_PMA.899.idx" Filter="1" />
+    <FileEntry Name="24643329444_Tmp.725.idx" Filter="1" />
+    <FileEntry Name="24643329444_xoU.623.idx" Filter="1" />
+    <FileEntry Name="39983524441.idx" Filter="1" />
+    <FileEntry Name="54587209441.idx" Filter="1" />
+    <FileEntry Name="5458720944_DYS.727.idx" Filter="1" />
+    <FileEntry Name="5458720944_F7M.559.idx" Filter="1" />
+    <FileEntry Name="5458720944_hmq.997.idx" Filter="1" />
+    <FileEntry Name="5458720944_JnA.625.idx" Filter="1" />
+    <FileEntry Name="5458720944_JZO.901.idx" Filter="1" />
+    <FileEntry Name="5458720944_lyZ.867.idx" Filter="1" />
+    <FileEntry Name="5458720944_WhQ.405.idx" Filter="1" />
+    <FileEntry Name="5458720944_zRv.491.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="Rep13_AdhocReport.prm.bak" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="Report13_AdhocReport.c.pickle" Filter="1" />
+    <FileEntry Name="Report13_AdhocReport.ci" Filter="1" />
+    <FileEntry Name="Report13_AdhocReport.prm.bak" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

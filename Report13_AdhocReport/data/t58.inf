@@ -1,0 +1,11 @@
+[t58]
+FileName1=t58.html
+URL1=https://clients1.google.com/tools/pso/ping?as=chrome&brand=GCEU&pid=&hl=en&rep=2&rlz=C1:1C1GCEU_enIN903IN903,C2:1C2GCEU_enIN903,C7:1C7GCEU_enIN903
+Total=1
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_58.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
