@@ -1,0 +1,9 @@
+[t43]
+SnapshotXmlFile=snapshot_43.xml
+FileName1=t43.png
+URL1=https://pvr-perf.rxlogix.com/reports/assets/bg2-a39cb4fbdd9436c08ad118995fc95c46.png
+Total=1
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t43_ResponseHeader.txt
+ContentType=image/png
