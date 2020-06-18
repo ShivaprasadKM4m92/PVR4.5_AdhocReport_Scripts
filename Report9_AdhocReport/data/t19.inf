@@ -1,0 +1,11 @@
+[t19]
+FileName1=t19_actionItemModal-3aad9e3af0797db4c41b1627e23b464d.html
+URL1=https://pvr-perf.rxlogix.com/reports/assets/app/actionItem/actionItemModal-3aad9e3af0797db4c41b1627e23b464d.js
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_19.xml
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t19_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
