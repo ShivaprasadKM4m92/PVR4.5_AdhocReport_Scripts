@@ -1,0 +1,11 @@
+[t135]
+FileName1=t135_possibleValues.json
+URL1=https://pvr-perf.rxlogix.com/reports/query/possibleValues?lang=en&field=cpthConditionTypeId&_=1591941781564
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_135.xml
+RequestHeaderFile=t135_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t135_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
