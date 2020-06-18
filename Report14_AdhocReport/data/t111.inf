@@ -1,0 +1,11 @@
+[t111]
+FileName1=t111_websocket.html
+URL1=https://pvr-perf.rxlogix.com/reports/stomp/426/4jd30ro_/websocket
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_111.xml
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t111_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
