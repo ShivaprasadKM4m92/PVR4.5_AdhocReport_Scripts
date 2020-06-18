@@ -1,0 +1,9 @@
+[t53]
+SnapshotXmlFile=snapshot_53.xml
+FileName1=t53.png
+URL1=https://pvr-perf.rxlogix.com/reports/assets/datatables/sort_desc-6f0e1540f8b6fffda24bee3875a2a170.png
+Total=1
+RequestHeaderFile=t53_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t53_ResponseHeader.txt
+ContentType=image/png
