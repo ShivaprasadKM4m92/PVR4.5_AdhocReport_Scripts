@@ -1,0 +1,15 @@
+GET /reports/stomp/958/vfonm6us/websocket HTTP/1.1
+Host: pvr-perf.rxlogix.com
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+Upgrade: websocket
+Origin: https://pvr-perf.rxlogix.com
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: SESSION=58101e15-c3e7-4714-8362-526f901774f5
+Sec-WebSocket-Key: gv5BrnTVtYTsbJz1q/MLBw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+

@@ -1,0 +1,37 @@
+﻿<DataObject comparison="Ordinal">
+  <Section id="">
+    <Subsections>
+      <Section id="General">
+        <Subsections />
+        <Entries>
+          <Entry key="ElapsedTime">
+            <double>144.3816185</double>
+          </Entry>
+          <Entry key="StartedAt">
+            <dateTime>2020-06-16T17:07:47.8794148+05:30</dateTime>
+          </Entry>
+          <Entry key="EndedAt">
+            <dateTime>2020-06-16T17:10:12.2610333+05:30</dateTime>
+          </Entry>
+          <Entry key="ReplayStatus">
+            <LastReplayRunStatus>Failed</LastReplayRunStatus>
+          </Entry>
+          <Entry key="NumberOfReplayErrors">
+            <int>4</int>
+          </Entry>
+          <Entry key="NumberOfReplayCriticalErrors">
+            <int>4</int>
+          </Entry>
+          <Entry key="NumberOfCompilationErrors">
+            <int>0</int>
+          </Entry>
+        </Entries>
+      </Section>
+    </Subsections>
+    <Entries>
+      <Entry key="Iterations">
+        <int>3</int>
+      </Entry>
+    </Entries>
+  </Section>
+</DataObject>
