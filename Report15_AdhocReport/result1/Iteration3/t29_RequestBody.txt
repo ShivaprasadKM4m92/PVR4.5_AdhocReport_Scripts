@@ -1,0 +1,2 @@
+"contains=daptomycin&dictionaryLevel=3&ref_level=&exact_search=false&imp=false&dataSource=pva&f"
+"ilters=%7B%7D"
